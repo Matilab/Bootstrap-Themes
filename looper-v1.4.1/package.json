@@ -72,7 +72,7 @@
     "flot": "^0.8.3",
     "frappe-gantt-v2": "0.0.9",
     "fullcalendar": "^3.10.1",
-    "handlebars": "^4.5.3",
+    "handlebars": "^4.7.7",
     "headroom.js": "^0.10.3",
     "highlightjs": "^9.16.2",
     "highlightjs-line-numbers.js": "^2.7.0",
